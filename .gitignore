@@ -1,0 +1,12 @@
+*.pth
+**/__pycache__/
+events.*
+**/error_exp/
+**/ops_dcnv3/
+**/kernels/
+**/pretrained_weights/
+**/.vscode/
+**/predict_result/
+**/YOLOX_outputs/
+**/datasets/
+**/results/

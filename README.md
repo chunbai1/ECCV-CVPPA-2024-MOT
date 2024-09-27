@@ -87,4 +87,7 @@ CUDA_VISIBLE_DEVICES=7 python tools/demo_track_cvppa.py --save_result -expn cvpp
 ```
 
 ## Post-Processing
-Refer [blog]().
+Refer [blog](https://blog.csdn.net/weixin_46337749/article/details/142597344).
+
+## Refer
+[ByteTrack](https://github.com/ifzhang/ByteTrack)
